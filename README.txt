@@ -41,3 +41,14 @@ Type new user password.
 # umount -a
 # poweroff
 Done. Passwords changed. Now boot normal to see changes and use Antergos2020
+
+
+How I'm creating Antergos2020 updates:
+1.Do update in VM
+2.Compress VM
+3.Publish VM
+
+What will be in next update:
+-GNOME boxes will be replaced with VManager 0.15/0.16
+-latest Arch stuff
+-latest ZEN kernel

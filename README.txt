@@ -20,8 +20,8 @@ On Linux if you've installed kvm type: qemu-system-x86_64 -enable-kvm -m 4096 -s
 If this not work run it as root or with sudo.
 On other OSes (or on Linux without kvm) type: qemu-system-x86_64 -m 4096 -soundhw es1370 -net nic -net user -hda harddisk.img -boot c
 
-Image size: 8,8GB
-Compressed size: 3,8GB
+Image size: 9GB
+Compressed size: 3,9GB
 
 DOWNLOAD (beta 3): http://www.mediafire.com/file/x8mwo0vcrcgyepp/antergos2020-4.11-beta-3.zst/file
 DOWNLOAD (beta 2): http://www.mediafire.com/file/p4fi1k10fqp53c2/antergos2020-b2.zst/file

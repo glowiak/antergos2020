@@ -10,7 +10,7 @@ Features:
 -look like orginal Antergos
 
 You may know this project from my Reddit posts, but now you can try it!
-Current version: 4.11-beta 2
+Current version: 4.11-beta 3
 Current distirbuting format: Zstandard compressed QEMU QCOW2 image
 
 To run it you must have qemu and zstd installed.

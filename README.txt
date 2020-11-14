@@ -23,10 +23,12 @@ On other OSes (or on Linux without kvm) type: qemu-system-x86_64 -m 4096 -soundh
 Image size: 8,8GB
 Compressed size: 3,8GB
 
+DOWNLOAD (beta 3): http://www.mediafire.com/file/x8mwo0vcrcgyepp/antergos2020-4.11-beta-3.zst/file
 DOWNLOAD (beta 2): http://www.mediafire.com/file/p4fi1k10fqp53c2/antergos2020-b2.zst/file
 
-
-Password.
+Password for root: antergos2020
+Password for user: antergos2020
+NOTE! This is old information! Password.
 Antergos2020 have password. I don't publish this password. How to change this password:
 1.Download archiso (arch's livecd) and type: qemu-system-x86_64 -m 4096 -net nic -net user -hda harddisk.img -boot d -cdrom <path to archiso>
 2.After archiso starts type in it following commands:
@@ -52,3 +54,7 @@ What will be in next update:
 -GNOME boxes will be replaced with VManager 0.15/0.16
 -latest Arch stuff
 -latest ZEN kernel
+
+Changes in 4.11-beta 3:
+-GNOME boxes replaced with VManager 0.15
+-you don't have to change password to use system.
